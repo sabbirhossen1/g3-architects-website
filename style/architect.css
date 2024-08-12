@@ -184,6 +184,16 @@
    .sponsor-companies img{
     filter: grayscale(100%) ;
    }
+   .fotter{
+    
+    background-color: #FFF4E7;
+    max-width:1400px ;
+    margin: 50px auto;
+    text-align: center;
+    padding: 20px;
+    
+    
+   }
 
   /* responsive media query */
   @media screen and (max-width: 576px){
